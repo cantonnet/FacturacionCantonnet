@@ -1,0 +1,584 @@
+2022-07-13 19:37:12 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "([*]10100400,'Marcelo','Caballero','1997-02-05')"; se esperaba "(, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "([*]10100400,'Marcelo','Caballero','1997-02-05')"; expected "(, SELECT, TABLE, VALUES"; SQL statement:
+(10100400,'Marcelo','Caballero','1997-02-05') [42001-214]
+2022-07-13 19:42:44 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "([*]10100400,'Marcelo','Caballero','1997-02-05')"; se esperaba "(, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "([*]10100400,'Marcelo','Caballero','1997-02-05')"; expected "(, SELECT, TABLE, VALUES"; SQL statement:
+(10100400,'Marcelo','Caballero','1997-02-05') [42001-214]
+2022-07-13 19:46:13 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "([*]10100400,'Marcelo','Caballero','1997-02-05')"; se esperaba "(, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "([*]10100400,'Marcelo','Caballero','1997-02-05')"; expected "(, SELECT, TABLE, VALUES"; SQL statement:
+(10100400,'Marcelo','Caballero','1997-02-05') [42001-214]
+2022-07-13 19:46:59 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "([*]10100400,'Marcelo','Caballero','1997-02-05')"; se esperaba "(, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "([*]10100400,'Marcelo','Caballero','1997-02-05')"; expected "(, SELECT, TABLE, VALUES"; SQL statement:
+(10100400,'Marcelo','Caballero','1997-02-05') [42001-214]
+2022-07-13 19:48:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "([*]10100400,'Marcelo','Caballero','1997-02-05')"; se esperaba "(, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "([*]10100400,'Marcelo','Caballero','1997-02-05')"; expected "(, SELECT, TABLE, VALUES"; SQL statement:
+(10100400,'Marcelo','Caballero','1997-02-05') [42001-214]
+2022-07-13 20:32:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "([*]10100400,'Marcelo','Caballero','1997-02-05')"; se esperaba "(, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "([*]10100400,'Marcelo','Caballero','1997-02-05')"; expected "(, SELECT, TABLE, VALUES"; SQL statement:
+(10100400,'Marcelo','Caballero','1997-02-05') [42001-214]
+2022-07-13 20:37:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "([*]10100400,'Marcelo','Caballero','1997-02-05')"; se esperaba "(, SELECT, TABLE, VALUES"
+Syntax error in SQL statement "([*]10100400,'Marcelo','Caballero','1997-02-05')"; expected "(, SELECT, TABLE, VALUES"; SQL statement:
+(10100400,'Marcelo','Caballero','1997-02-05') [42001-214]
+2022-07-13 20:40:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+select cliente0_.dni as dni1_0_, cliente0_.apellido as apellido2_0_, cliente0_.fechanacimiento as fechanac3_0_, cliente0_.nombre as nombre4_0_ from cliente cliente0_ [42102-214]
+2022-07-13 21:00:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+select cliente0_.dni as dni1_0_, cliente0_.apellido as apellido2_0_, cliente0_.fechanacimiento as fechanac3_0_, cliente0_.nombre as nombre4_0_ from cliente cliente0_ [42102-214]
+2022-07-13 21:01:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+select cliente0_.dni as dni1_0_, cliente0_.apellido as apellido2_0_, cliente0_.fechanacimiento as fechanac3_0_, cliente0_.nombre as nombre4_0_ from cliente cliente0_ [42102-214]
+2022-07-13 21:01:40 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+select cliente0_.dni as dni1_0_, cliente0_.apellido as apellido2_0_, cliente0_.fechanacimiento as fechanac3_0_, cliente0_.nombre as nombre4_0_ from cliente cliente0_ [42102-214]
+2022-07-13 21:02:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+select cliente0_.dni as dni1_0_, cliente0_.apellido as apellido2_0_, cliente0_.fechanacimiento as fechanac3_0_, cliente0_.nombre as nombre4_0_ from cliente cliente0_ [42102-214]
+2022-07-13 21:08:05 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+select cliente0_.dni as dni1_0_, cliente0_.apellido as apellido2_0_, cliente0_.fechanacimiento as fechanac3_0_, cliente0_.nombre as nombre4_0_ from cliente cliente0_ [42102-214]
+2022-07-13 21:08:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+select cliente0_.dni as dni1_0_, cliente0_.apellido as apellido2_0_, cliente0_.fechanacimiento as fechanac3_0_, cliente0_.nombre as nombre4_0_ from cliente cliente0_ [42102-214]
+2022-07-13 21:14:54 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+select cliente0_.dni as dni1_0_, cliente0_.apellido as apellido2_0_, cliente0_.fechanacimiento as fechanac3_0_, cliente0_.nombre as nombre4_0_ from cliente cliente0_ [42102-214]
+2022-07-13 21:15:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+select cliente0_.dni as dni1_0_, cliente0_.apellido as apellido2_0_, cliente0_.fechanacimiento as fechanac3_0_, cliente0_.nombre as nombre4_0_ from cliente cliente0_ [42102-214]
+2022-07-13 21:17:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+select cliente0_.dni as dni1_0_0_, cliente0_.apellido as apellido2_0_0_, cliente0_.fechanacimiento as fechanac3_0_0_, cliente0_.nombre as nombre4_0_0_ from cliente cliente0_ where cliente0_.dni=? [42102-214]
+2022-07-13 21:26:21 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+select cliente0_.dni as dni1_0_, cliente0_.apellido as apellido2_0_, cliente0_.fechanacimiento as fechanac3_0_, cliente0_.nombre as nombre4_0_ from cliente cliente0_ [42102-214]
+2022-07-18 17:47:10 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) ) [42001-214]
+2022-07-18 18:21:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) ) [42001-214]
+2022-07-18 18:31:26 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) ) [42001-214]
+2022-07-18 18:32:51 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) ) [42001-214]
+2022-07-18 18:39:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) ) [42001-214]
+2022-07-18 18:40:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) ) [42001-214]
+2022-07-18 18:41:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "PRODUCTO" no encontrada
+Table "PRODUCTO" not found; SQL statement:
+select producto0_.idproducto as idproduc1_1_, producto0_.codigo as codigo2_1_, producto0_.cantidad as cantidad3_1_, producto0_.descripcion as descripc4_1_, producto0_.nombre as nombre5_1_, producto0_.precio as precio6_1_ from producto producto0_ [42102-214]
+2022-07-18 18:42:16 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) ) [42001-214]
+2022-07-18 18:45:53 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) ) [42001-214]
+2022-07-18 18:46:06 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) ) [42001-214]
+2022-07-18 18:46:17 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) ) [42001-214]
+2022-07-18 18:47:57 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO), )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO), )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO), ) [42001-214]
+2022-07-18 18:49:01 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO)"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO)"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) [42001-214]
+2022-07-18 18:49:24 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; se esperaba ")"
+Syntax error in SQL statement "CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5[*],2), PRIMARY KEY(IDPRODUCTO) )"; expected ")"; SQL statement:
+CREATE TABLE PRODUCTO( IDPRODUCTO INT NOT NULL AUTO_INCREMENT, CODIGO INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, DESCRIPCION VARCHAR(255) NOT NULL, CANTIDAD INT NOT NULL, PRECIO FLOAT(5,2), PRIMARY KEY(IDPRODUCTO) ) [42001-214]
+2022-07-18 18:57:14 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Numeric value out of range: "7730922255242" in column "CODIGO"; SQL statement:
+INSERT INTO PRODUCTO(IDPRODUCTO,CODIGO,NOMBRE,DESCRIPCION,CANTIDAD,PRECIO) VALUES (1,7730922255242,'DANETTE','CHOCOLATE',60,79.99), (2,7501011178847,'LAYS','STAX SABOR BARBACUE',25,119.50), (3,7730197005887,'COCAOLA','SABOR ORIGINAL',50,160.50) [22004-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:506)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.value.Value.convertToInt(Value.java:2691)
+	at org.h2.value.Value.convertToInt(Value.java:1590)
+	at org.h2.value.Value.convertTo(Value.java:1135)
+	at org.h2.value.Value.convertForAssignTo(Value.java:1092)
+	at org.h2.table.Column.validateConvertUpdateSequence(Column.java:369)
+	at org.h2.table.Table.convertInsertRow(Table.java:926)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:167)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:54)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:90)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:101)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:76)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at ClienteApiRestCantonnet.main(ClienteApiRestCantonnet.java:10)
+2022-07-18 18:57:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+INSERT INTO CLIENTE(IDCLIENTE,DNI,NOMBRE,APELLIDO,FECHANACIMIENTO) VALUES (1,10100100,'Alejandro','Cantonnet','1991-07-16'), (2,10100200,'Lucas','Garcia','1992-11-01'), (3,10100300,'Marcos','Sastre','1985-07-24'), (4,10100300,'sebastian','Sastre','1985-07-24'), (5,10100400,'Marcelo','Pintos','1997-02-05') [42102-214]
+2022-07-18 18:57:48 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Numeric value out of range: "7730922255242" in column "CODIGO"; SQL statement:
+INSERT INTO PRODUCTO(IDPRODUCTO,CODIGO,NOMBRE,DESCRIPCION,CANTIDAD,PRECIO) VALUES (1,7730922255242,'DANETTE','CHOCOLATE',60,79.99), (2,7501011178847,'LAYS','STAX SABOR BARBACUE',25,119.50), (3,7730197005887,'COCAOLA','SABOR ORIGINAL',50,160.50) [22004-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:506)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.value.Value.convertToInt(Value.java:2691)
+	at org.h2.value.Value.convertToInt(Value.java:1590)
+	at org.h2.value.Value.convertTo(Value.java:1135)
+	at org.h2.value.Value.convertForAssignTo(Value.java:1092)
+	at org.h2.table.Column.validateConvertUpdateSequence(Column.java:369)
+	at org.h2.table.Table.convertInsertRow(Table.java:926)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:167)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:54)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:90)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:101)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:76)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at ClienteApiRestCantonnet.main(ClienteApiRestCantonnet.java:10)
+2022-07-18 18:58:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLDataException: Numeric value out of range: "7730197005887" in column "CODIGO"; SQL statement:
+INSERT INTO PRODUCTO(IDPRODUCTO,CODIGO,NOMBRE,DESCRIPCION,CANTIDAD,PRECIO) VALUES (3,7730197005887,'COCAOLA','SABOR ORIGINAL',50,160.50) [22004-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:506)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.value.Value.convertToInt(Value.java:2691)
+	at org.h2.value.Value.convertToInt(Value.java:1590)
+	at org.h2.value.Value.convertTo(Value.java:1135)
+	at org.h2.value.Value.convertForAssignTo(Value.java:1092)
+	at org.h2.table.Column.validateConvertUpdateSequence(Column.java:369)
+	at org.h2.table.Table.convertInsertRow(Table.java:926)
+	at org.h2.command.dml.Insert.insertRows(Insert.java:167)
+	at org.h2.command.dml.Insert.update(Insert.java:135)
+	at org.h2.command.dml.DataChangeStatement.update(DataChangeStatement.java:74)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:54)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:90)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyDataScripts(AbstractScriptDatabaseInitializer.java:101)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:76)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at ClienteApiRestCantonnet.main(ClienteApiRestCantonnet.java:10)
+2022-07-18 19:00:04 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+INSERT INTO CLIENTE(IDCLIENTE,DNI,NOMBRE,APELLIDO,FECHANACIMIENTO) VALUES (1,10100100,'Alejandro','Cantonnet','1991-07-16'), (2,10100200,'Lucas','Garcia','1992-11-01'), (3,10100300,'Marcos','Sastre','1985-07-24'), (4,10100300,'sebastian','Sastre','1985-07-24'), (5,10100400,'Marcelo','Pintos','1997-02-05') [42102-214]
+2022-07-18 19:00:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "CLIENTE" no encontrada
+Table "CLIENTE" not found; SQL statement:
+INSERT INTO CLIENTE(IDCLIENTE,DNI,NOMBRE,APELLIDO,FECHANACIMIENTO) VALUES (1,10100100,'Alejandro','Cantonnet','1991-07-16'), (2,10100200,'Lucas','Garcia','1992-11-01'), (3,10100300,'Marcos','Sastre','1985-07-24'), (4,10100300,'sebastian','Sastre','1985-07-24'), (5,10100400,'Marcelo','Pintos','1997-02-05') [42102-214]
+2022-07-18 19:42:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "TRANSACCION" ya existe
+Table "TRANSACCION" already exists; SQL statement:
+create table transaccion ( transaccionid int not null auto_increment, fecha datetime, monto float not null, clienteid int, primary key (transaccionid), constraint FK_cliente foreign key(clienteid) references cliente(clienteid) ) [42101-214]
+2022-07-18 19:43:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "TRANSACCION" ya existe
+Table "TRANSACCION" already exists; SQL statement:
+create table transaccion ( transaccionid int not null auto_increment, fecha datetime, monto float not null, clienteid int, primary key (transaccionid) ) [42101-214]
+2022-07-18 19:43:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Tabla "TRANSACCION" ya existe
+Table "TRANSACCION" already exists; SQL statement:
+create table transaccion ( transaccionid int not null auto_increment, fecha datetime, monto float not null, clienteid int, primary key (transaccionid) ) [42101-214]
+2022-07-18 19:44:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "CLIENTEID" no encontrada
+Column "CLIENTEID" not found; SQL statement:
+create table transaccion ( transaccionid int not null auto_increment, fecha datetime, monto float not null, clienteid int, primary key (transaccionid), constraint FK_cliente foreign key(clienteid) references cliente(clienteid) ) [42122-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:502)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.table.Table.getColumn(Table.java:749)
+	at org.h2.table.IndexColumn.mapColumns(IndexColumn.java:184)
+	at org.h2.command.ddl.AlterTableAddConstraint.tryUpdate(AlterTableAddConstraint.java:218)
+	at org.h2.command.ddl.AlterTableAddConstraint.update(AlterTableAddConstraint.java:72)
+	at org.h2.command.ddl.AlterTable.update(AlterTable.java:46)
+	at org.h2.command.ddl.CommandWithColumns.createConstraints(CommandWithColumns.java:83)
+	at org.h2.command.ddl.CreateTable.update(CreateTable.java:134)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:54)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:90)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applySchemaScripts(AbstractScriptDatabaseInitializer.java:97)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:75)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at ClienteApiRestCantonnet.main(ClienteApiRestCantonnet.java:10)
+2022-07-18 20:05:28 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Imposible eliminar "CLIENTE" debido a que "FK_CLIENTE" depende de él.
+Cannot drop "CLIENTE" because "FK_CLIENTE" depends on it; SQL statement:
+DROP TABLE IF EXISTS CLIENTE [90107-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:632)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.command.ddl.DropTable.prepareDrop(DropTable.java:97)
+	at org.h2.command.ddl.DropTable.update(DropTable.java:121)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:54)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:90)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applySchemaScripts(AbstractScriptDatabaseInitializer.java:97)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:75)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at ClienteApiRestCantonnet.main(ClienteApiRestCantonnet.java:10)
+2022-07-18 20:06:33 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Imposible eliminar "CLIENTE" debido a que "FK_CLIENTE" depende de él.
+Cannot drop "CLIENTE" because "FK_CLIENTE" depends on it; SQL statement:
+DROP TABLE IF EXISTS CLIENTE [90107-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:632)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.command.ddl.DropTable.prepareDrop(DropTable.java:97)
+	at org.h2.command.ddl.DropTable.update(DropTable.java:121)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:54)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:90)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applySchemaScripts(AbstractScriptDatabaseInitializer.java:97)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:75)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at ClienteApiRestCantonnet.main(ClienteApiRestCantonnet.java:10)
+2022-07-18 20:06:49 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Imposible eliminar "CLIENTE" debido a que "FK_CLIENTE" depende de él.
+Cannot drop "CLIENTE" because "FK_CLIENTE" depends on it; SQL statement:
+DROP TABLE IF EXISTS CLIENTE [90107-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:632)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.command.ddl.DropTable.prepareDrop(DropTable.java:97)
+	at org.h2.command.ddl.DropTable.update(DropTable.java:121)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:54)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:90)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applySchemaScripts(AbstractScriptDatabaseInitializer.java:97)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:75)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at ClienteApiRestCantonnet.main(ClienteApiRestCantonnet.java:10)
+2022-07-18 20:09:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "CLIENTEID" no encontrada
+Column "CLIENTEID" not found; SQL statement:
+CREATE TABLE CLIENTE( IDCLIENTE INT NOT NULL AUTO_INCREMENT, DNI INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, APELLIDO VARCHAR(100) NOT NULL, FECHANACIMIENTO DATE NOT NULL, PRIMARY KEY(IDCLIENTE), constraint FK_CLIENTE foreign key(clienteid) references CLIENTE(IDCLIENTE) ) [42122-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:502)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.table.Table.getColumn(Table.java:749)
+	at org.h2.table.IndexColumn.mapColumns(IndexColumn.java:184)
+	at org.h2.command.ddl.AlterTableAddConstraint.tryUpdate(AlterTableAddConstraint.java:214)
+	at org.h2.command.ddl.AlterTableAddConstraint.update(AlterTableAddConstraint.java:72)
+	at org.h2.command.ddl.AlterTable.update(AlterTable.java:46)
+	at org.h2.command.ddl.CommandWithColumns.createConstraints(CommandWithColumns.java:83)
+	at org.h2.command.ddl.CreateTable.update(CreateTable.java:134)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:54)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:90)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applySchemaScripts(AbstractScriptDatabaseInitializer.java:97)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:75)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at ClienteApiRestCantonnet.main(ClienteApiRestCantonnet.java:10)
+2022-07-18 20:09:56 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Columna "CLIENTEID" no encontrada
+Column "CLIENTEID" not found; SQL statement:
+CREATE TABLE CLIENTE( IDCLIENTE INT NOT NULL AUTO_INCREMENT, DNI INT NOT NULL, NOMBRE VARCHAR(100) NOT NULL, APELLIDO VARCHAR(100) NOT NULL, FECHANACIMIENTO DATE NOT NULL, PRIMARY KEY(IDCLIENTE), constraint FK_CLIENTE foreign key(clienteid) references CLIENTE(IDCLIENTE) ) [42122-214]
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:502)
+	at org.h2.message.DbException.getJdbcSQLException(DbException.java:477)
+	at org.h2.message.DbException.get(DbException.java:223)
+	at org.h2.message.DbException.get(DbException.java:199)
+	at org.h2.table.Table.getColumn(Table.java:749)
+	at org.h2.table.IndexColumn.mapColumns(IndexColumn.java:184)
+	at org.h2.command.ddl.AlterTableAddConstraint.tryUpdate(AlterTableAddConstraint.java:214)
+	at org.h2.command.ddl.AlterTableAddConstraint.update(AlterTableAddConstraint.java:72)
+	at org.h2.command.ddl.AlterTable.update(AlterTable.java:46)
+	at org.h2.command.ddl.CommandWithColumns.createConstraints(CommandWithColumns.java:83)
+	at org.h2.command.ddl.CreateTable.update(CreateTable.java:134)
+	at org.h2.command.CommandContainer.update(CommandContainer.java:169)
+	at org.h2.command.Command.executeUpdate(Command.java:252)
+	at org.h2.jdbc.JdbcStatement.executeInternal(JdbcStatement.java:252)
+	at org.h2.jdbc.JdbcStatement.execute(JdbcStatement.java:223)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at org.springframework.jdbc.datasource.init.ScriptUtils.executeSqlScript(ScriptUtils.java:261)
+	at org.springframework.jdbc.datasource.init.ResourceDatabasePopulator.populate(ResourceDatabasePopulator.java:254)
+	at org.springframework.jdbc.datasource.init.DatabasePopulatorUtils.execute(DatabasePopulatorUtils.java:54)
+	at org.springframework.boot.jdbc.init.DataSourceScriptDatabaseInitializer.runScripts(DataSourceScriptDatabaseInitializer.java:90)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.runScripts(AbstractScriptDatabaseInitializer.java:145)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applyScripts(AbstractScriptDatabaseInitializer.java:107)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.applySchemaScripts(AbstractScriptDatabaseInitializer.java:97)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.initializeDatabase(AbstractScriptDatabaseInitializer.java:75)
+	at org.springframework.boot.sql.init.AbstractScriptDatabaseInitializer.afterPropertiesSet(AbstractScriptDatabaseInitializer.java:65)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1863)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1800)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:620)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:542)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:322)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:147)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:734)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:408)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1306)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1295)
+	at ClienteApiRestCantonnet.main(ClienteApiRestCantonnet.java:10)
